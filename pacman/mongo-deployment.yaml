@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     name: mongo
-  name: picovina
+  name: pacman
 spec:
   replicas: 1
   selector:
