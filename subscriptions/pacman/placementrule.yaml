@@ -11,5 +11,5 @@ spec:
       status: "True"
   clusterSelector:
     matchLabels:
-      usage: production
+      usage: development
   #clusterReplicas: 2  #Apply to how many matched clusters, default is ALL
